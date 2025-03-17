@@ -1,1 +1,1 @@
-Notebook for ATARI space invaders game
+Notebook for space invaders game
